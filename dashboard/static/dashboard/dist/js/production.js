@@ -333,7 +333,7 @@
             .attr("transform", "rotate(-90)")
             .attr("y", 6)
             .attr("dy", ".71em")
-            .style("text-anchor", "end")
+            .style("text-anchor", "end");
 
         // Create Depatment Groups
         var department = canvas.selectAll(".department")
@@ -345,7 +345,7 @@
 
         // Create Stacks
         department.selectAll('rect')
-            .data(function(d) { console.log(d); return d.value; })
+            .data(function(d) { return d.value; })
             .enter()
             .append("rect")
             .attr("width", x.rangeBand())
@@ -426,7 +426,7 @@
                         departmentGenderList[name] = {
                             'M': 0,
                             'F': 0
-                        }
+                        };
                     }
 
                     if (data[i]['gender'] !== undefined) {
@@ -453,7 +453,6 @@
         // This is the callback which is called when the fetch is complete
         function doneFetch() {
             var sublists = createSublists(candidates);
-            console.log(sublists.departmentGenderList);
 
             createStudentGenderChart('.student-gender-chart', sublists['genderList']);
             createStudentEthnicityChart('.student-enthnicty-chart', sublists['ethnicityList']);

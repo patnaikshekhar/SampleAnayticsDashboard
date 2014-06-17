@@ -1,3 +1,7 @@
 venv
 *.pyc
 staticfiles
+node_modules
+.sass-cache
+.DS_Store
+npm-debug.log

@@ -1,0 +1,156 @@
+$emerald_color: #2ecc71;
+$peter_river_color: #3498db;
+$alizarin_color: #e74c3c;
+$wisteria_color: #8e44ad;
+$green_sea_color: #16a085;
+$midnight_blue_color: #2c3e50;
+
+$chart_height: 300px;
+
+$loading_image_size: 350px;
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.navbar-right {
+    width: 100px;
+}
+
+.navbar {
+  z-index: 2;
+  border-radius: 0px;
+
+  .logo {
+    color: #e74c3c;
+    font-size: 1.2em;
+  }
+}
+
+.emerald-background {
+  background-color: $emerald_color;
+}
+
+.container {
+
+  .main {
+    .row {
+    }
+
+    .chart {
+      margin-bottom: 2%;
+      height: $chart_height;
+      text-align: center;
+
+      p {
+        font-size: 0.8em;
+      }
+      //background-color: $peter_river_color;
+    }
+  }
+
+  .loading {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+
+    img {
+      position: relative;
+      top: 50%;
+      left: 50%;
+      width: $loading_image_size;
+      height: $loading_image_size;
+      margin-left: -$loading_image_size / 2;
+      margin-top: -$loading_image_size / 2;
+    }
+  }
+}
+
+.student-gender-chart {
+
+  .arc {
+    font-size: 0.5em;
+    fill: white;
+  }
+
+  /*.arc:hover path {
+    font-size: 0.5em;
+    fill: $alizarin_color;
+  }*/
+}
+
+.student-enthnicty-chart {
+  .arc {
+    font-size: 0.4em;
+    fill: white;
+  }
+}
+
+.student-scores-chart {
+  .axis {
+    .tick {
+      font-size: 0.4em;
+    }
+  }
+
+  .bar {
+    text {
+      font-size: 0.5em;
+      fill: black;
+    }
+  }
+}
+
+.student-departments-chart {
+    .node {
+        text {
+            font-size: 0.5em;
+            fill: white;
+        }
+    }
+}
+
+.department-gender-chart {
+    .xaxis {
+        text {
+            font-size: 0.5em;
+        }
+
+        line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+
+        path {
+            display: none;
+        }
+    }
+
+    .yaxis {
+        text {
+            font-size: 0.5em;
+        }
+
+        line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+    }
+
+    .legend {
+        text {
+            font-size: 0.5em;
+        }
+    }
+}

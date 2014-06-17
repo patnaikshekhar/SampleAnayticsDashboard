@@ -1,0 +1,5634 @@
+[
+    {
+        "first_name": "Shekhar",
+        "last_name": "Patnaik",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "patnaikshekhar@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Janet",
+        "last_name": "Baker",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "jbaker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Darren",
+        "last_name": "Kirk",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-12-19",
+        "email": "darren@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Ravi",
+        "last_name": "Patel",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sophie",
+        "last_name": "Meadows",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-02-12",
+        "email": "sophie@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Daisy",
+        "last_name": "Rogers",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-01-22",
+        "email": "drogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Tom",
+        "last_name": "Rogers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "trogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Bret",
+        "last_name": "Akers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "John",
+        "last_name": "Deakin",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Celia",
+        "last_name": "Fisher",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Leo",
+        "last_name": "Harris",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "lharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2250,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Shankutala",
+        "last_name": "Patel",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    },
+    {
+        "first_name": "Greta",
+        "last_name": "Crofts",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "gcrofts@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Laurine",
+        "last_name": "Strauser",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "lstrauts@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Billings",
+        "state": "MT",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Devin",
+        "last_name": "Mcmahon",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1992-12-19",
+        "email": "devin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Emerson",
+        "last_name": "Hayse",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jenifer",
+        "last_name": "Viars",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "jenifer@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Morris",
+        "last_name": "Herrington",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1993-01-22",
+        "email": "morrisogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Maryrose",
+        "last_name": "Lerman",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-02-12",
+        "email": "lerman@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Enrique",
+        "last_name": "Blackwelder",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Marita",
+        "last_name": "Duley",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Eve",
+        "last_name": "Tye",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Joe",
+        "last_name": "Nardi",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "nardi@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2050,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Lang",
+        "last_name": "Mcclain",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    },
+    {
+        "first_name": "Shekhar",
+        "last_name": "Patnaik",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "patnaikshekhar@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Janet",
+        "last_name": "Baker",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "jbaker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Darren",
+        "last_name": "Kirk",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-12-19",
+        "email": "darren@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Ravi",
+        "last_name": "Patel",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sophie",
+        "last_name": "Meadows",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-02-12",
+        "email": "sophie@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Daisy",
+        "last_name": "Rogers",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-01-22",
+        "email": "drogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Tom",
+        "last_name": "Rogers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "trogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Bret",
+        "last_name": "Akers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "John",
+        "last_name": "Deakin",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Celia",
+        "last_name": "Fisher",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Leo",
+        "last_name": "Harris",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "lharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2250,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Shankutala",
+        "last_name": "Patel",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    },
+    {
+        "first_name": "Greta",
+        "last_name": "Crofts",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "gcrofts@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Laurine",
+        "last_name": "Strauser",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "lstrauts@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Billings",
+        "state": "MT",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Devin",
+        "last_name": "Mcmahon",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1992-12-19",
+        "email": "devin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Emerson",
+        "last_name": "Hayse",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jenifer",
+        "last_name": "Viars",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "jenifer@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Morris",
+        "last_name": "Herrington",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1993-01-22",
+        "email": "morrisogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Maryrose",
+        "last_name": "Lerman",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-02-12",
+        "email": "lerman@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Enrique",
+        "last_name": "Blackwelder",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Marita",
+        "last_name": "Duley",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Eve",
+        "last_name": "Tye",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Joe",
+        "last_name": "Nardi",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "nardi@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2050,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Lang",
+        "last_name": "Mcclain",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    },
+    {
+        "first_name": "Shekhar",
+        "last_name": "Patnaik",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "patnaikshekhar@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Janet",
+        "last_name": "Baker",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "jbaker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Darren",
+        "last_name": "Kirk",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-12-19",
+        "email": "darren@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Ravi",
+        "last_name": "Patel",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sophie",
+        "last_name": "Meadows",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-02-12",
+        "email": "sophie@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Daisy",
+        "last_name": "Rogers",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-01-22",
+        "email": "drogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Tom",
+        "last_name": "Rogers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "trogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Bret",
+        "last_name": "Akers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "John",
+        "last_name": "Deakin",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Celia",
+        "last_name": "Fisher",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Leo",
+        "last_name": "Harris",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "lharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2250,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Shankutala",
+        "last_name": "Patel",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    },
+    {
+        "first_name": "Greta",
+        "last_name": "Crofts",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "gcrofts@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Laurine",
+        "last_name": "Strauser",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "lstrauts@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Billings",
+        "state": "MT",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Devin",
+        "last_name": "Mcmahon",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1992-12-19",
+        "email": "devin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Emerson",
+        "last_name": "Hayse",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jenifer",
+        "last_name": "Viars",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "jenifer@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Morris",
+        "last_name": "Herrington",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1993-01-22",
+        "email": "morrisogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Maryrose",
+        "last_name": "Lerman",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-02-12",
+        "email": "lerman@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Enrique",
+        "last_name": "Blackwelder",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Marita",
+        "last_name": "Duley",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Eve",
+        "last_name": "Tye",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Joe",
+        "last_name": "Nardi",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "nardi@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2050,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Lang",
+        "last_name": "Mcclain",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    },
+    {
+        "first_name": "Shekhar",
+        "last_name": "Patnaik",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "patnaikshekhar@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Janet",
+        "last_name": "Baker",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-02-27",
+        "email": "jbaker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Darren",
+        "last_name": "Kirk",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-12-19",
+        "email": "darren@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Ravi",
+        "last_name": "Patel",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sophie",
+        "last_name": "Meadows",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1993-02-12",
+        "email": "sophie@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Daisy",
+        "last_name": "Rogers",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-01-22",
+        "email": "drogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Tom",
+        "last_name": "Rogers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "trogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Bret",
+        "last_name": "Akers",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "John",
+        "last_name": "Deakin",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Celia",
+        "last_name": "Fisher",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Leo",
+        "last_name": "Harris",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "lharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2250,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Shankutala",
+        "last_name": "Patel",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    },
+    {
+        "first_name": "Greta",
+        "last_name": "Crofts",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "gcrofts@gmail.com",
+        "nationality": "Indian",
+        "ethnicity": "A",
+        "address_line_1": "26325 Lake Blvd NE",
+        "city": "Mettawa",
+        "state": "IL",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2400,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.8
+            }
+        ],
+        "departments": ["Management", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Laurine",
+        "last_name": "Strauser",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-02-27",
+        "email": "lstrauts@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "68102 Random Blvd",
+        "city": "Billings",
+        "state": "MT",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Devin",
+        "last_name": "Mcmahon",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1992-12-19",
+        "email": "devin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "68103 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.2
+            }
+        ],
+        "departments": ["Physics", "Electrical Engineering"]
+    },
+    {
+        "first_name": "Emerson",
+        "last_name": "Hayse",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-12-21",
+        "email": "rpatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "68109 Random Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip_code": "40037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Physics", "Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jenifer",
+        "last_name": "Viars",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-12",
+        "email": "jenifer@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "5 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2290,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.9
+            }
+        ],
+        "departments": ["Physics", "Architecture", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Morris",
+        "last_name": "Herrington",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1993-01-22",
+        "email": "morrisogers@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2300,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Maryrose",
+        "last_name": "Lerman",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-02-12",
+        "email": "lerman@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2013,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Biological Engineering", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Enrique",
+        "last_name": "Blackwelder",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1993-02-15",
+        "email": "baker@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "1 Lake Street",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2260,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Marita",
+        "last_name": "Duley",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-03-18",
+        "email": "deakin@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 Lake Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2190,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Eve",
+        "last_name": "Tye",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1993-05-19",
+        "email": "cfisher@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "2 The Street",
+        "city": "Louisville",
+        "state": "KY",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2220,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management"]
+    },
+    {
+        "first_name": "Joe",
+        "last_name": "Nardi",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1994-09-01",
+        "email": "nardi@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "9 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2050,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 3.4
+            }
+        ],
+        "departments": ["Management", "Architecture"]
+    },
+    {
+        "first_name": "Lang",
+        "last_name": "Mcclain",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-10-11",
+        "email": "spatel@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Athens",
+        "state": "GA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2360,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Sally",
+        "last_name": "Brown",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1993-10-11",
+        "email": "sbrown@gmail.com",
+        "nationality": "American",
+        "ethnicity": "A",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2380,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Carter",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1993-11-13",
+        "email": "jcarter@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "10 The Street",
+        "city": "Indianapolis",
+        "state": "IL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2100,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Paul",
+        "last_name": "Edwards",
+        "gender": "M",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "pedwards@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "11 The Street",
+        "city": "Montgomery",
+        "state": "AL",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Chemical Engineering"]
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Harris",
+        "gender": "F",
+        "admission_year": 2014,
+        "date_of_birth": "1994-11-13",
+        "email": "rharris@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "11 The Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Management", "Physics"]
+    },
+    {
+        "first_name": "Martin",
+        "last_name": "Lampton",
+        "gender": "M",
+        "admission_year": 2014,
+        "date_of_birth": "1996-11-13",
+        "email": "mlampton@gmail.com",
+        "nationality": "American",
+        "ethnicity": "O",
+        "address_line_1": "17 The Street",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2130,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Physics"]
+    },
+    {
+        "first_name": "Iris",
+        "last_name": "Poll",
+        "gender": "F",
+        "admission_year": 2013,
+        "date_of_birth": "1994-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Ta",
+        "last_name": "Sudler",
+        "gender": "F",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "apoll@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2090,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Johnie",
+        "last_name": "Lightford",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1992-11-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2270,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Usrey",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "jlight@gmail.com",
+        "nationality": "American",
+        "ethnicity": "C",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Electrical Engineering", "Biological Engineering"]
+    },
+    {
+        "first_name": "Lawerence",
+        "last_name": "Santos",
+        "gender": "M",
+        "admission_year": 2012,
+        "date_of_birth": "1991-05-13",
+        "email": "santos@gmail.com",
+        "nationality": "American",
+        "ethnicity": "H",
+        "address_line_1": "17 The Street",
+        "city": "New Orleans",
+        "state": "CA",
+        "zip_code": "56037",
+        "country": "USA",
+        "qualifications": [
+            {
+                "name": "SAT",
+                "university": "NA",
+                "year": 2012,
+                "score": 2120,
+                "GPA": 0
+            },
+            {
+                "name": "High School",
+                "university": "NA",
+                "year": 2013,
+                "score": 0,
+                "GPA": 4.0
+            }
+        ],
+        "departments": ["Architecture", "Biological Engineering"]
+    }
+]

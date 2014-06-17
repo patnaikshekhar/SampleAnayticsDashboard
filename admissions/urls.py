@@ -12,7 +12,9 @@ v1_api.register(DepartmentResource())
 
 admin.autodiscover()
 
-urlpatterns = patterns('',
-                       url(r'^admin/', include(admin.site.urls)),
-                       url(r'^api/', include(v1_api.urls)),
-                       )
+urlpatterns = patterns(
+    '',
+    url(r'^admin/', include(admin.site.urls)),
+    url(r'^', include('dashboard.urls')),
+    url(r'^api/', include(v1_api.urls)),
+)

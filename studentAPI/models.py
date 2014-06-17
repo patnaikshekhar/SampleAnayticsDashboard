@@ -39,7 +39,7 @@ class Candidate(models.Model):
     # Demographic Info
     nationality = models.CharField(max_length=50, blank=True)
     ethnicity = models.CharField(
-        max_length=1, choices=ETHNICITY_CHOICES,
+        max_length=2, choices=ETHNICITY_CHOICES,
         blank=True)
 
     # Address
@@ -69,11 +69,20 @@ class StudentQualification(models.Model):
     """
         Stores the qualifications for each student and the scores
     """
+
+    QUALIFICATION_NAME_CHOICES = (
+        ('SAT', 'SAT'),
+        ('MCAT', 'MCAT'),
+        ('High School', 'High School'),
+    )
+
     candidate = models.ForeignKey(Candidate, related_name='qualifications')
-    name = models.CharField(max_length=100)
+    name = models.CharField(max_length=100, choices=QUALIFICATION_NAME_CHOICES)
     university = models.CharField(max_length=100)
-    year_of_passing = models.PositiveIntegerField()
-    GPA = models.DecimalField(max_digits=2, decimal_places=1)
+    year = models.PositiveIntegerField()
+    GPA = models.DecimalField(max_digits=2, decimal_places=1,
+                              blank=True, null=True)
+    score = models.PositiveIntegerField(blank=True, null=True)
 
 
 class StudentAppliedDepartments(models.Model):

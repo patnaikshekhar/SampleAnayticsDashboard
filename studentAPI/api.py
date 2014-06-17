@@ -1,4 +1,4 @@
-from tastypie.resources import ModelResource
+from tastypie.resources import ModelResource, ALL
 from tastypie import fields
 
 from studentAPI.models import Candidate, Department
@@ -55,4 +55,7 @@ class CandidateResource(ModelResource):
 
     class Meta:
         queryset = Candidate.objects.all()
+        filtering = {
+            'admission_year': ALL
+        }
         resource_name = 'candidate'

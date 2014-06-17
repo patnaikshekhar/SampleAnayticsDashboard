@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Architecture",
+        "description": "Architecture"
+    },
+    {
+        "name": "Biological Engineering",
+        "description": "Biological Engineering"
+    },
+    {
+        "name": "Management",
+        "description": "Management"
+    },
+    {
+        "name": "Chemical Engineering",
+        "description": "Chemical Engineering"
+    },
+    {
+        "name": "Physics",
+        "description": "Physics"
+    },
+    {
+        "name": "Electrical Engineering",
+        "description": "Electrical Engineering"
+    }
+]

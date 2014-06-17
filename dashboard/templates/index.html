@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Dashboard</title>
+        <meta name="description" content="Analytics Dashboard">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Lib CSS -->
+        <link rel="stylesheet" href="{% static 'common_components/lib/bootstrap/css/bootstrap.css' %}">
+        <link rel="stylesheet" href="{% static 'common_components/lib/flat-ui/css/flat-ui.css' %}">
+        <!-- End Lib CSS -->
+
+        <!-- Dist CSS -->
+        <link rel="stylesheet" href="{% static 'dashboard/dist/css/global.min.css' %}">
+        <!-- End Dist CSS -->
+    </head>
+    <body class="">
+        <nav class="navbar navbar-inverse" role="navigation">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="http://www.deloitte.com"><span class="logo">D</span>ashboard</a>
+            </div>
+            <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <select type="text" class="form-control" placeholder="Year" id="select_year">
+                <option>2014</option>
+                <option>2013</option>
+                <option>2012</option>
+              </select>
+            </div>
+            </form>
+        </nav>
+        <div class="container">
+            <div class="main">
+                <div class="row">
+                    <div class="col-md-4 col-xs-10 chart">
+                        <div class="student-gender-chart"></div>
+                        <p>Candidates by Gender</p>
+                    </div>
+                    <div class="col-md-4 col-xs-10 chart">
+                        <div class="student-scores-chart"></div>
+                        <p>Candidates by SAT Score</p>
+                    </div>
+                    <div class="col-md-4 col-xs-10 chart">
+                        <div class="student-enthnicty-chart"></div>
+                        <p>Candidates by Enthnicity</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-xs-10 chart">
+                        <div class="student-departments-chart"></div>
+                        <p>Candidates by Department</p>
+                    </div>
+                    <div class="col-md-8 col-xs-20 chart">
+                        <div class="department-gender-chart"></div>
+                        <p>Departments by Gender</p>
+                    </div>
+                </div>
+            </div>
+            <div class="loading">
+                <img src="{% static 'dashboard/images/loading.gif' %}" />
+            </div>
+        </div>
+
+        <!-- Lib JS -->
+        <script src="{% static 'common_components/lib/d3/d3.min.js' %}"></script>
+        <!-- End Lib JS -->
+
+        <script src="{% static 'dashboard/dist/js/production.min.js' %}"></script>
+    </body>
+</html>
+
